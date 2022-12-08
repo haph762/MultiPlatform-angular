@@ -1,0 +1,42 @@
+.table-hover {
+    width: 100%;
+}
+
+table,
+td,
+th {
+    border: 1px solid;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table>thead>tr {
+    background-color: aquamarine;
+}
+
+.print-detail {
+    display: none;
+}
+
+.title-table {
+    height: 50px;
+}
+
+.sign-admin {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+
+}
+
+.sign-admin-table {
+    width: 300px;
+}
+
+.tr-sign-admin-table {
+    text-align: center;
+    height: 100px;
+}
